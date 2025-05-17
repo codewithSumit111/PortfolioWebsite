@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Snake Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to implement a fun, interactive game while reinforcing core python programming principles.",
+    "skills": ["Pygame"],
+    "source": "https://lnkd.in/g-YmqgNr"
+  },
+  {
+    "title": "Temple Run automated play",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["OpenCV", "MediaPipe"],
+    "source": "https://www.github.com"
+  }
+]
