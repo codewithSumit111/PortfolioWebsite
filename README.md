@@ -1,12 +1,75 @@
-# React + Vite
+# 🚀 Sumit’s Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Repo Size](https://img.shields.io/github/repo-size/codewithSumit111/PortfolioWebsite)
+![Stars](https://img.shields.io/github/stars/codewithSumit111/PortfolioWebsite?style=social)
+![Forks](https://img.shields.io/github/forks/codewithSumit111/PortfolioWebsite?style=social)
 
-Currently, two official plugins are available:
+A sleek, responsive personal portfolio website to showcase your projects, skills, and journey.  
+Built with 💙 using HTML, CSS, and JavaScript.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [**View Live Website**](https://sumitda-pf.netlify.app/)
+
+---
+
+## 📸 Screenshots
+
+| Home Section | Contact Section |
+|--------------|-----------------|
+| ![Home](./Screenshot%20(353).png) | ![Contact](./c0bcee55-3a70-4eb9-a400-ae79c23bd533.png) |
+
+---
+
+## 📌 Features
+
+✅ Modern, mobile-friendly design  
+✅ Smooth scrolling & subtle animations  
+✅ Downloadable resume button  
+✅ Projects showcase with technology tags  
+✅ Contact section with icons for mail, LinkedIn, and GitHub  
+✅ Fully responsive on all devices
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Netlify** (Hosting)
+
+---
+
+## 🚀 Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/codewithSumit111/PortfolioWebsite.git
+
+# Navigate into the folder
+cd PortfolioWebsite
+
+# Open index.html in your browser
+```
+
+---
+
+## 🎯 Future Plans
+
+- Add a blog section  
+- Implement dark/light mode toggle  
+- Add more interactive animations  
+- Host on a custom domain (if not already done)
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 **Mail me** – [cetaspirant8@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/sumit-arya-dev005/)  
+- [GitHub](https://github.com/codewithSumit111/)
+
+---
